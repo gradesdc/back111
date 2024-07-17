@@ -52,8 +52,7 @@
 
 ## 🌸 아키텍쳐
 
-![아키텍쳐](https://github.com/user-attachments/assets/1e4359ca-7a5e-49bf-80da-5d4995a1affb)
-
+<img alt="erd" src="https://github.com/user-attachments/assets/1e4359ca-7a5e-49bf-80da-5d4995a1affb">
 <br>
 
 ## ⚙️ ERD
