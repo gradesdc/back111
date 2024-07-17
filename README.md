@@ -9,7 +9,7 @@
 ---
 ### 📌 프로젝트 소개
 - 테이블 오더 & 가맹점 & 본사(인트라넷) 연계 프로젝트
-<img width="928" src="https://github.com/user-attachments/assets/1b67fd3e-e3c3-44f9-898b-647b1deed0cb" >
+<img src="https://github.com/user-attachments/assets/1b67fd3e-e3c3-44f9-898b-647b1deed0cb" >
 
 
 ### 🎞 시연영상 👇
