@@ -1,5 +1,5 @@
 <p align="center">
- <img src="![image](https://github.com/user-attachments/assets/a55ea178-b842-4e38-8e87-2dc637784dcd)">
+ <img src="https://github.com/user-attachments/assets/a55ea178-b842-4e38-8e87-2dc637784dcd">
 </p>
  <h3> 테이블 오더 & 가맹점 & 본사(인트라넷) 연계 프로젝트 </h3></div>
 <div align="center"></div>
