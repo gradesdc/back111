@@ -58,8 +58,8 @@
 
 ## ⚙️ ERD
 
-<img width="928" alt="erd" src="https://github.com/user-attachments/assets/16572375-ebf6-45c8-910f-6a9b87de3af1">
-<img width="928" alt="erd" src="https://github.com/user-attachments/assets/189eea46-a248-4e98-9ad1-837971d770ab">
+<img alt="erd" src="https://github.com/user-attachments/assets/16572375-ebf6-45c8-910f-6a9b87de3af1">
+<img alt="erd" src="https://github.com/user-attachments/assets/189eea46-a248-4e98-9ad1-837971d770ab">
 <br>
 
 ## ✔ 주요 기능
